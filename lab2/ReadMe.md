@@ -39,5 +39,4 @@ gcc lex.yy.c clang.tab.c -o parser
 
 
 样例输出
-
- <img src="C:\Users\91889\AppData\Roaming\Typora\typora-user-images\image-20220405112355698.png" alt="image-20220405112355698" style="zoom:50%;" />
+![image](https://user-images.githubusercontent.com/68415992/161675621-da67ac8c-ce8a-46e6-9220-2155f6faa9b2.png)
