@@ -39,4 +39,5 @@ gcc lex.yy.c clang.tab.c -o parser
 
 
 样例输出
- <img src="https://user-images.githubusercontent.com/68415992/161675621-da67ac8c-ce8a-46e6-9220-2155f6faa9b2.png" style="zoom:50%;" />
+
+ <img src="https://user-images.githubusercontent.com/68415992/161675621-da67ac8c-ce8a-46e6-9220-2155f6faa9b2.png" style="zoom:40%;" />
