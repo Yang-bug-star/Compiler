@@ -18,7 +18,7 @@ g++ lexer.cpp LL1.cpp -o ll1_parser
 g++ lexer.cpp SLR1.cpp -o slr1_parser
 ```
 
-其中`lexer.cpp`是词法分析部分，改造于实验一的`lex.yy.c`，`LL1.cpp`为本实验的**LL(1)**语法分析程序，`SLR1.cpp`为**SLR(1)**语法分析程序，这两个语法分析程序调用`lexer.cpp`中的`lexer`函数定义得到对每个表达式的词法分析结果用于语法分析。
+其中`lexer.cpp`是词法分析部分，改造于实验一的`lex.yy.c`，`LL1.cpp`为本实验的 **LL(1)** 语法分析程序，`SLR1.cpp`为 **SLR(1)** 语法分析程序，这两个语法分析程序调用`lexer.cpp`中的`lexer`函数定义得到对每个表达式的词法分析结果用于语法分析。
 
 运行命令
 
