@@ -1,0 +1,4 @@
+(INT_CONSTANT, 2)
+(MOD, %)
+(MOD, %)
+(INT_CONSTANT, 10)

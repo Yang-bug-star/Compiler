@@ -1,0 +1,7 @@
+a-- + 3 * ( b + c / 10) - 4 % 5
+a->id + 3.2e2 * sizeof(const struct id) % *p - b.id  
+(-a % !0 + 6 + &a - ~(b * b))
+a + 3(b + c / 10)
+s)
+1 + b.
+2%%10
