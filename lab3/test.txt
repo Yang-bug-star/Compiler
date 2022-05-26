@@ -1,0 +1,17 @@
+a = a;
+a = (b+c) * 2 / m + t % u;
+
+while (a < 2) {
+	b = a << 2;
+	b += c;
+	if (b > 3) break;
+	else b *= b++;
+}
+
+switch (a) {
+    case 2+a: a = ~b << 2;
+    default: a = (b,c);
+}
+
+return a + b +c;
+
